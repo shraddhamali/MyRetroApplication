@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRetroApplication</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s_pref_file">com.shraddha.myretroapplication.sh_prefarence_file</string>
+    <string name="s_pref_login_status">com.shraddha.sh_prefarence_login_status</string>
+    <string name="s_pref_login_name">sh_preference_name</string>
+    <string name="s_pref_login_email">sh_preference_email</string>
+    <string name="s_pref_login_date">sh_preference_date</string>
+
+</resources>
